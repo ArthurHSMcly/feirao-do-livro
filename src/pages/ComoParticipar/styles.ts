@@ -1,0 +1,16 @@
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    padding: 16,
+  },
+  titulo: {
+    marginBottom: 12,
+  },
+  bloco: {
+    padding: 16,
+    borderWidth: 1,
+    marginBottom: 12,
+  },
+});
